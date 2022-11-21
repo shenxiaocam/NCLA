@@ -24,23 +24,16 @@ Datasets
 ===
 data/ contains the 5 datasets used in our paper, i.e., Cora, CiteSeer, PubMed, Amazon-Photo, and Coauthor-CS.
 
-Each ".mat" file stores a network dataset, where
-
-the variable "network" represents an adjacency matrix, 
-
-the variable "attrb" represents a node attribute matrix,
-
-the variable "group" represents a node label matrix. 
 
 Code
 ===
 "gat.py" is the multi-head GAT model.
 
-"train.py" is an example case of the NCLA model for node classification.
+"train.py" is an example case of the NCLA model for node classification on the Cora dataset.
 
 "loss.py" is the proposed neighbor contrastive loss.
 
-The hyperparameters of NCLA on the five datasets were specified in "run.sh".
+The hyperparameters of NCLA on five datasets can be found in "run.sh".
 
 Plese cite our paper as:
 ===

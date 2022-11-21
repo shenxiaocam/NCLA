@@ -62,7 +62,7 @@ else:
     cuda = False
 
 features = torch.FloatTensor(features.todense())
-f = open('./output/' + 'NCLA_' + args.dataset + '.txt', 'a+')
+f = open('NCLA_' + args.dataset + '.txt', 'a+')
 f.write('\n\n\n{}\n'.format(args))
 f.flush()
 

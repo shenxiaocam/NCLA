@@ -37,5 +37,5 @@ The hyperparameters of NCLA on five datasets can be found in "run.sh".
 
 Plese cite our paper as:
 ===
-Xiao Shen, Dewang sun, Shirui Pan, Xi Zhou, and Laurence T. Yang. Neighbor Contrastive Learning on Learnable Graph Augmentation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2023.
+Xiao Shen, Dewang sun, Shirui Pan, Xi Zhou, and Laurence T. Yang. Neighbor Contrastive Learning on Learnable Graph Augmentation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 9782-9791, 2023.
 

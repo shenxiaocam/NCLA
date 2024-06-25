@@ -1,5 +1,5 @@
 
-Neighbor Contrastive Learning on Learnable Graph Augmentation (NLCA)
+Neighbor Contrastive Learning on Learnable Graph Augmentation (NCLA)
 ====
 This repository contains the author's implementation in PyTorch for the paper "Neighbor Contrastive Learning on Learnable Graph Augmentation".
 
